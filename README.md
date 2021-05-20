@@ -27,6 +27,7 @@ This repo includes code that takes data from a study of 249 mice identified with
 
     Generates a line plot of tumor volume vs. time point for an individual mouse in the Capomulin treatment group.
 
+![](images/img4.png)
 
     Generates a scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen.
 

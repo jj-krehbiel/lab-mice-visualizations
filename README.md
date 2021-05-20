@@ -34,3 +34,5 @@ This repo includes code that takes data from a study of 249 mice identified with
 ![](images/img5.png)
 
     Calculates the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment, and plots the linear regression model on top of the previous scatter plot.
+    
+![](images/img6.png)

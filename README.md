@@ -13,6 +13,7 @@ This repo includes code that takes data from a study of 249 mice identified with
 
     Generates a pie plot using both Pandas's DataFrame.plot() and Matplotlib's pyplot that shows the distribution of female or male mice in the study.
 
+![](images/img2.png)
 
     Calculates the final tumor volume of each mouse across four of the most promising treatment regimens. 
 

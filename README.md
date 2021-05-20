@@ -23,6 +23,7 @@ This repo includes code that takes data from a study of 249 mice identified with
 
     Generates a box and whisker plot of the final tumor volume for all four treatment regimens and highlights any potential outliers in the plot by changing their color and style.
 
+![](images/img3.png)
 
     Generates a line plot of tumor volume vs. time point for an individual mouse in the Capomulin treatment group.
 
